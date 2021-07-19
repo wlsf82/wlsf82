@@ -9,4 +9,4 @@ I'm a software engineer that loves testing. I'm also a clean coder, blogger, You
 - ☕ [Buy me a coffee](https://www.buymeacoffee.com/walmyrtat)! 
 - 💬 And feel free to ask me about testing automation in the JavaScript realm (Cypress.io, Protractor, BackstopJS, etc.)
 
-Want to know more about me? Visit my website - https://walmyr.dev.
+Want to know more about me? Visit my website --> https://walmyr.dev.
