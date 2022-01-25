@@ -6,6 +6,7 @@ I'm a software engineer that loves testing. I'm also a clean coder, blogger, You
 - 🐦 Follow me on [Twitter](https://twitter.com/@walmyrlimaesilv) and [LinkedIn](https://www.linkedin.com/in/walmyr-lima-e-silva-filho-147a9110a/)
 - 📺 Watch my videos on [YouTube](https://www.youtube.com/playlist?list=PL-eblSNRj0QFCgBuHFSSJUeEYDm6wwvHI)
 - 📚 Read my articles on [Medium](https://medium.com/@walmyrlimaesilv) and [DEV Community](https://dev.to/walmyrlimaesilv)
+- 🎙️ Listen to my podcast on [Anchor](https://anchor.fm/testando-na-gringa) (content in Portuguese)
 - ☕ [Buy me a coffee](https://www.buymeacoffee.com/walmyrtat)! 
 - 💬 And feel free to ask me about testing automation in the JavaScript realm (Cypress.io, Selenium, Protractor, Applitools, Percy, BackstopJS, etc.)
 
