@@ -8,6 +8,6 @@ I'm a software engineer that loves testing. I'm also a clean coder, blogger, You
 - 📚 Read my articles on [Medium](https://medium.com/@walmyrlimaesilv) and [DEV Community](https://dev.to/walmyrlimaesilv)
 - 🎙️ Listen to my podcast on [Anchor](https://anchor.fm/testando-na-gringa) (content in Portuguese)
 - ☕ [Buy me a coffee](https://www.buymeacoffee.com/walmyrtat)! 
-- 💬 And feel free to ask me about testing automation in the JavaScript realm (Cypress.io, Playwright, Selenium, Protractor, Applitools, Percy, BackstopJS, etc.)
+- 💬 And feel free to ask me about testing automation in the JavaScript realm (Cypress.io, Protractor, BackstopJS, etc.)
 
 Want to know more about me? Visit my website => https://walmyr.dev.
