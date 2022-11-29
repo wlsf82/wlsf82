@@ -11,5 +11,3 @@ I'm a software craftsman, blogger, YouTuber, podcaster, Cypress.io Ambassador, o
 - 💬 And feel free to ask me about testing automation in the JavaScript realm.
 
 Want to know more about me? Visit my website => https://walmyr.dev.
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=wlsf82&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
