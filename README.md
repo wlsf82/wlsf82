@@ -6,7 +6,7 @@ I'm a software craftsman, blogger, YouTuber, podcaster, Cypress.io Ambassador, o
 - 👨🏼‍💻 Follow me on [LinkedIn](https://www.linkedin.com/in/walmyr-lima-e-silva-filho)
 - 📺 Watch my videos on [YouTube](https://www.youtube.com/playlist?list=PL-eblSNRj0QFCgBuHFSSJUeEYDm6wwvHI)
 - 📚 Read my articles on [Medium](https://medium.com/@walmyrlimaesilv) and [DEV Community](https://dev.to/walmyrlimaesilv)
-- 🎙️ Listen to my podcast on [Spotify Podcaster](https://anchor.fm/testando-na-gringa) (content in Portuguese)
+- 🎙️ Listen to my podcast on [Spotify for Podcasters](https://anchor.fm/testando-na-gringa) (content in Portuguese)
 - ☕ [Buy me a coffee](https://www.buymeacoffee.com/walmyrtat)! 
 - 💬 And feel free to ask me about testing automation in the JavaScript realm.
 
