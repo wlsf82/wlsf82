@@ -9,6 +9,6 @@ I'm a software craftsman, blogger, YouTuber, podcaster, Cypress.io Ambassador, o
 - 🎙️ Listen to my podcast (in Portuguese) on [Spotify for Podcasters](https://anchor.fm/testando-na-gringa)
 - 🎙️ Listen to my podcast (in English) on [Spotify](https://open.spotify.com/show/1ZRRgVDduSSSkWmhwyQIIE)
 - ☕ [Buy me a coffee](https://www.buymeacoffee.com/walmyrtat)! 
-- 💬 And feel free to ask me about testing automation in the JavaScript realm.
+- 💬 And feel free to ask me about test automation in the JavaScript realm.
 
 Want to know more about me? Visit my website => https://walmyr.dev.
