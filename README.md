@@ -1,4 +1,4 @@
-### Hi there, I'm Walmyr 👋
+# Hi there, I'm Walmyr 👋
 
 I'm a software craftsman, blogger, YouTuber, podcaster, Cypress.io Ambassador, online instructor, mentor, speaker, an active member of the testing automation and JavaScript communities, and a fan of good music, tattoos, gardening, vegan food, and skateboarding. 🛹
 
