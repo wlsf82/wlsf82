@@ -7,7 +7,7 @@ I'm a software craftsman, blogger, YouTuber, podcaster, Cypress.io Ambassador, o
 - 📺 Watch my videos on [YouTube](https://www.youtube.com/playlist?list=PL-eblSNRj0QFCgBuHFSSJUeEYDm6wwvHI)
 - 📚 Read my articles on [Medium](https://medium.com/@walmyrlimaesilv) and [DEV Community](https://dev.to/walmyrlimaesilv)
 - 🎙️ Listen to my podcast (in Portuguese) on [Spotify](https://open.spotify.com/show/5HFlqWkk6qtgJquUixyuKo?si=7kvJ8MJXR8S9_fsFloB73A)
-- ☕ [Buy me a coffee](https://www.buymeacoffee.com/walmyrtat)! 
+- ☕ [Buy me a coffee](https://buymeacoffee.com/talkingabouttesting)! 
 - 💬 And feel free to ask me about test automation in the JavaScript realm.
 
 Want to know more about me? Visit my website => https://walmyr.dev.
