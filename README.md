@@ -4,6 +4,7 @@ I'm a software craftsman, blogger, YouTuber, podcaster, Cypress.io Ambassador, o
 
 - 💻 Get to know the [Talking About Testing School](https://talkingabouttesting.school)
 - 👨🏼‍💻 Follow me on [LinkedIn](https://www.linkedin.com/in/walmyr-lima-e-silva-filho)
+- 🖼️ Follow me on [Instagram](https://www.instagram.com/talkingabouttesting)
 - 📺 Watch my videos on [YouTube](https://www.youtube.com/playlist?list=PL-eblSNRj0QFCgBuHFSSJUeEYDm6wwvHI)
 - 📚 Read my articles on [Medium](https://medium.com/@walmyrlimaesilv) and on [DEV Community](https://dev.to/walmyrlimaesilv)
 - 🎙️ Listen to my podcast (in Portuguese) on [Spotify](https://open.spotify.com/show/5HFlqWkk6qtgJquUixyuKo?si=7kvJ8MJXR8S9_fsFloB73A)
