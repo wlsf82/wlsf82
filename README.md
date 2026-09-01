@@ -11,4 +11,4 @@ I'm a software craftsman, blogger, YouTuber, podcaster, Cypress.io Ambassador, o
 - ☕ [Buy me a coffee](https://buymeacoffee.com/talkingabouttesting)! 
 - 💬 And feel free to ask me about test automation in the JavaScript realm.
 
-Want to know more about me? Visit my website => https://walmyr.dev.
+Want to know more about me? Visit my website at https://walmyr.dev.
