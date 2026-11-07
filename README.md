@@ -9,6 +9,6 @@ I'm a software craftsman, blogger, YouTuber, podcaster, Cypress.io Ambassador, o
 - 📚 Read my articles on [Medium](https://medium.com/@walmyrlimaesilv) and on [DEV Community](https://dev.to/walmyrlimaesilv)
 - 🎙️ Listen to my podcast (in Portuguese) on [Spotify](https://open.spotify.com/show/5HFlqWkk6qtgJquUixyuKo?si=7kvJ8MJXR8S9_fsFloB73A)
 - ☕ [Buy me a coffee](https://buymeacoffee.com/talkingabouttesting)! 
-- 💬 And feel free to ask me about test automation in the JavaScript realm.
+- 💬 And feel free to ask me about test automation in the JavaScript (and TypeScript) realm.
 
 Want to know more about me? Visit my website at https://walmyr.dev.
